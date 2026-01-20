@@ -1,0 +1,8 @@
+{
+  "name": "DotNetWeb IDE",
+  "description": "A professional-grade, browser-based .NET IDE with integrated compiler, ASP.NET preview, and developer productivity tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
